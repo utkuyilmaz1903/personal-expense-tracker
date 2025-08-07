@@ -24,3 +24,8 @@ env/
 # System
 .DS_Store
 Thumbs.db
+
+# User data files
+expenses.txt
+budget.txt
+
