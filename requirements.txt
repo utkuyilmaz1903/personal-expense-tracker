@@ -1,0 +1,8 @@
+# Core Requirements
+python>=3.8
+
+# GUI
+tkinter
+
+# Data Visualization
+turtle
