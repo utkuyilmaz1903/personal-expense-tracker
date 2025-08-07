@@ -18,9 +18,9 @@ A modern Python application for personal finance management featuring intuitive 
 
 ## 🖼️ Screenshots
 
-| ![Expense Tab](screenshot1.png) | ![Budget Tab](screenshot2.png) |
+| ![Expense Tab](screenshots/screenshot1.png) | ![Budget Tab](screenshots/screenshot2.png) |
 |---------------------------------|--------------------------------|
-| ![Search Tab](screenshot3.png)  | ![Report Tab](screenshot4.png) |
+| ![Search Tab](screenshots/screenshot3.png)  | ![Report Tab](screenshots/screenshot4.png) |
 
 ## 🛠️ Tech Stack
 - **Language**: Python 3.8+
@@ -139,3 +139,4 @@ The full text is available in the LICENSE file.
 
 ✉️ Contact
 For inquiries: utkyilmz@gmail.com
+
