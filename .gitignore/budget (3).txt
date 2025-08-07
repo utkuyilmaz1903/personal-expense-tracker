@@ -1,0 +1,4 @@
+Food:1000.0
+Transportation:500.0
+Entertainment:300.0
+Other:200.0
