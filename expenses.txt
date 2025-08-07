@@ -1,0 +1,10 @@
+2024-10-01	Food	120.0	Lunch at a cafe
+2024-10-02	Transportation	75.5	Fuel for car
+2024-10-03	Entertainment	80.4	Movie night
+2024-10-04	Food	29.5	Groceries
+2024-10-05	Entertainment	300.0	A night with my valentine
+2024-10-06	Transportation	300.0	School
+2024-10-07	Food	200.0	Breakfast
+2024-10-08	Entertainment	18.5	Ticket for theme park
+2025-06-08	Entertainment	250.0	A coffee
+2025-08-06	Transportation	180.0	Bus
